@@ -7,10 +7,13 @@ Ou, você poderá utilizar qualquer editor de texto para visualizar e editar o c
 Prompt de Comando (Windows) com os comandos javac "Classe".java e java "Classe" ("Classe", você indicará o nome da Classe - Main - neste exemplo), conforme
 print abaixo:
 
-:one:. Navegue pelo Prompt até a pasta onde se encontra o arquivo ".java" (O caminho c:\Temp serve apenas de exemplo);
+:one:. Navegue pelo Prompt até a pasta onde se encontra o arquivo ".java" (O caminho c:\Folder serve apenas de exemplo);
+
 :two:. Execute o comando javac "Classe".java;
+
 :three:. Execute o comando java "Classe".
-*Desconsiderar as aspas em cada comando.
+
+***Desconsiderar as aspas em cada comando.***
 
 ![cmd](https://user-images.githubusercontent.com/57046710/171024500-7b5bdd95-8c75-4f5d-bfc3-4e251332908f.PNG)
 
